@@ -1,5 +1,5 @@
 status: go
 environment: production
-version: v1.1
+version: v2.3.0
 approval: pending
-rollback: none
+rollback: 7
