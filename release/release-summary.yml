@@ -1,5 +1,5 @@
-status: unknown
+status: go
 environment: production
-version: latest
+version: v1.1
 approval: pending
 rollback: none
